@@ -1,11 +1,17 @@
 /*
-Theme Name: LDC Theme
+Author: Luis del Cid
+Author URI: https://github.com/luisdelcid
+Description: An empty Beaver Builder child theme that should be used as a starting point for custom development with Beaver Themer and ldc()->functions.
+Domain Path:
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Requires at least: 5.0
+Requires PHP: 5.6
+Tags: ldc, theme
+Template: bb-theme
+Tested up to: 5.7
+Text Domain: ldc
+Theme Name: LDC
 Theme URI: https://github.com/luisdelcid/ldc-theme
 Version: 1.0
-Description: An example <a href="https://wpbeaverbuilder.com">Beaver Builder</a> child theme that can be used as a starting point for custom development.
-Author: Luis del Cid
-Author URI: https://luisdelcid.com
-template: bb-theme
 */
-
-/* Add your custom styles here... */
