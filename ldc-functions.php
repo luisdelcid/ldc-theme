@@ -1,2 +1,2 @@
 <?php
-// Add your magic here.
+// The LDC plugin must be active in order to use ldc()->functions.
